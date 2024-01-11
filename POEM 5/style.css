@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.navbar {
+    background-color: #8A2BE2;
+    padding: 50px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 8px;
+}
+
+.ITEMS {
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+    gap: 170px;
+
+}
+
+.listitem:hover {
+    color: #00FF2A;
+}
+
+.listitem {
+    font-size: larger;
+    font-weight: bold;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 60px;
+    font-size: 80px;
+    color: #00FF2A;
+    font-weight: bolder;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 25px;
+    color: #008EAD;
+    font-weight: bolder;
+}
+
+.rating {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.two {
+    height: 40px;
+
+}
+
+.one {
+    font-size: x-large;
+    color: #008EAD;
+}
+
+.three {
+    font-size: 25px;
+    color: #008EAD;
+}
+
+.dil {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.red {
+    width: 30px;
+    margin: 20px;
+
+
+}
+
+#auto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    margin-top: 5px;
+    color: #008EAD;
+
+}
+
+.four {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.four p {
+    text-align: center;
+    width: 40%;
+    margin-top: 15px;
+    font-size: 30px;
+    color: #008EAD;
+
+}
+
+.man {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.man p {
+    text-align: center;
+    width: 40%;
+    margin-top: 40px;
+    font-size: 30px;
+    color: #008EAD;
+}
+
+.boy {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.boy p {
+    text-align: center;
+    width: 40%;
+    margin-top: 40px;
+    font-size: 30px;
+    color: #008EAD;
+
+}
+
+.last {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.last p {
+    text-align: center;
+    width: 40%;
+    margin-top: 40px;
+    font-size: 30px;
+    color: #008EAD;
+
+
+}
